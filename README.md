@@ -7,6 +7,6 @@ My LeetCode Profile: https://leetcode.com/randive/
 
 |  #  |      Title     |   Solutions   | Time          | Space         | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
-|896|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/) | O(n) | O(1) | |Easy|
+|896|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/algorithm-solutions/1_two_sum.java) | O(n^2) |  | |Easy|
 
 
